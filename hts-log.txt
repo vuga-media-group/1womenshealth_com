@@ -1,0 +1,59 @@
+HTTrack3.49-2 launched on Fri, 02 Aug 2024 23:40:52 at https://1womenshealth.com
+(httrack https://1womenshealth.com -O /Volumes/EXT2TBSSD/WP_Static_Site_Migration_to_GIT/httrack/1womenshealth_com -r2 -F MyBot )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:42:13	Error: 	"Forbidden" (403) at link https://1womenshealth.com/xmlrpc.php (from https://1womenshealth.com/)
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/vietnamese/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek-ext/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin-ext/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/vietnamese/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic-ext/500/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/cyrillic/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/greek/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/vietnamese/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/roboto-condensed/5.0.14/latin-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic-ext/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/vietnamese/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/hebrew/400/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic-ext/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/hebrew/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/vietnamese/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin-ext/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek-ext/600/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/hebrew/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/greek/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic-ext/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/cyrillic/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/vietnamese/700/normal.woff2
+23:42:14	Warning: 	File not parsed, looks like binary: https://1womenshealth.com/cf-fonts/s/open-sans/5.0.20/latin/700/normal.woff2
+23:42:14	Error: 	"Forbidden" (403) at link https://1womenshealth.com/xmlrpc.php?rsd (from https://1womenshealth.com/)
+23:42:14	Error: 	"Not Found" (404) at link https://1womenshealth.com/wp-content/uploads/2023/02/bg.jpg (from https://1womenshealth.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 23 seconds : 98 links scanned, 94 files written (6002956 bytes overall) [2015095 bytes received at 24278 bytes/sec], 5151320 bytes transferred using HTTP compression in 49 files, ratio 18%, 16.6 requests per connection
+(3 errors, 45 warnings, 0 messages)

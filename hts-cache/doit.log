@@ -1,0 +1,8 @@
+https://1womenshealth.com -O /Volumes/EXT2TBSSD/WP_Static_Site_Migration_to_GIT/httrack/1womenshealth_com -r2 -F MyBot
+File generated automatically on Fri, 02 Aug 2024 23:40:52, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
